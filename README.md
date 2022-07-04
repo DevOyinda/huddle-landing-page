@@ -1,3 +1,3 @@
 huddle-landing-page.
 Check environment for page.
-Link to the page- https://devoyinda.github.io/huddle-landing-page/
+link to my published GitHub page - https://devoyinda.github.io/huddle-landing-page/
